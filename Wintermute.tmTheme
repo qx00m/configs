@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
-	Wintermute • 2018 pH
+	blah
 -->
 <plist version="1.0">
 	<dict>
@@ -14,13 +14,13 @@
 				<key>settings</key>
 				<dict>
 					<key>background</key>
-					<string>#202020</string>
+					<string>#222222</string>
 					<key>foreground</key>
-					<string>#EFEFEF</string>
+					<string>#FFFFFF</string>
 					<key>caret</key>
 					<string>#FFFFFF</string>
 					<key>selection</key>
-					<string>#1010BF</string>
+					<string>#3F20DF</string>
 				</dict>
 			</dict>
 			<!-- Scope styles -->
@@ -32,7 +32,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#20E2E2</string>
+					<string>#A0A0A0</string>
 				</dict>
 			</dict>
 			<dict>
@@ -43,7 +43,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#22FE22</string>
+					<string>#22EF22</string>
 				</dict>
 			</dict>
 			<dict>
@@ -54,7 +54,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#22FE22</string>
+					<string>#22EF22</string>
 				</dict>
 			</dict>
 			<dict>
@@ -65,7 +65,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#EF44EF</string>
+					<string>#FFFFFF</string>
 				</dict>
 			</dict>
 		</array>
