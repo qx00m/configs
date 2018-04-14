@@ -1,0 +1,4 @@
+{
+	"shell_cmd": "build_gcc",
+	"file_regex": "(.+[^:]):(\\d+):(\\d+): (?:fatal )?((?:error|warning): .+)$"
+}

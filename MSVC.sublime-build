@@ -1,0 +1,4 @@
+{
+	"shell_cmd": "build_msvc.bat",
+	"file_regex": "^ *([A-z]:.*)[(]([0-9]+)[)]"
+}
